@@ -1,0 +1,30 @@
+theme: minima
+
+# Site settings
+baseurl: "" # Leave blank for GitHub Pages
+url: "https://lucasmartinez43.github.io" # Replace with your GitHub Pages URL
+
+# Site title and description
+name: "Lucas Martinez"
+title: "Portfolio"
+description: "A showcase of my design work and projects."
+
+# Navigation
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "About"
+    url: "/about"
+  - title: "Contact"
+    url: "/contact"
+
+# Social links
+social:
+  linkedin: https://www.linkedin.com/in/lucas-martinez-043872106/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
